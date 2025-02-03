@@ -1,2 +1,0 @@
-# sso-protos
-sso-protos
